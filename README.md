@@ -4,7 +4,7 @@ An anime discovery, made with NextJs and TailwindCSS. Please deploy your own ver
 
 Jikan Api for fetching data which is totally free.
 
-![Demo Image](https://github.com/adamz991119/animei/assets/images/app_screenshot.jpg)
+<img src="https://github.com/adamz991119/blob/main/assets/images/app_screenshot.jpg" />
 
 ## Deploy on your computer
 
