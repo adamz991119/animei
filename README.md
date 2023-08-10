@@ -27,8 +27,3 @@ npm run start
 ```
 
 This will start the app on http://localhost:3000
-
-
-## Contact
-
-Ethiel ADIASSA - [Twitter](https://www.twitter.com/enthusiastDev) - ethiel97@gmail.com - [Website](https://ethieladiassa.me)
