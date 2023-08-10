@@ -4,7 +4,7 @@ An anime discovery, made with NextJs and TailwindCSS. Please deploy your own ver
 
 Jikan Api for fetching data which is totally free.
 
-![Demo Image](https://github.com/Ethiel97/animeflix/blob/master/assets/images/app_screenshot.jpg)
+![Demo Image](https://github.com/adamz991119/animei/assets/images/app_screenshot.jpg)
 
 ## Deploy on your computer
 
@@ -12,7 +12,7 @@ You need to have `nodejs` and `git` installed on your pc for following the intru
 
 First download the repository using
 ```
-git clone https://github.com/ethiel97/animeflix
+git clone https://github.com/adamz991119/animei
 ```
 
 This should download this repository to your computer. Next, to download the dependencies run
